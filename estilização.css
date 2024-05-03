@@ -8,17 +8,73 @@
 .texto {
 display: table-cell;
 float: right;
-width: 1300px;
+width: 1400px;
 
 }
 
 .img{
     display: flex;
     justify-content: center;
-    
 }
 
 .wpp{
-    width: 5px;
-    max-width: 100%;
+    font-size: larger;
+    width: 100px;
+    width: 100%;
+}
+.corpo{
+    font-size: big;
+    padding: 0;
+    margin: 0;
+}
+h1{
+font-size: 5e;
+margin: 0;
+padding: 0;
+text-align: center;
+
+}
+.exp{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-size: 0.995rem;
+    font-weight: bold;
+    height: auto;
+}
+.vel{
+    width: 300px;
+}
+.velaas{
+width: 400px;
+}
+.luz{
+width: 300px;
+}
+.ft{
+font-size:big;
+margin: 0;
+padding: 0;
+text-align: center;
+
+
+}
+.aro{
+    font-size:x-small;
+    display: table-cell;
+    float: right;
+    width: 2000px;
+
+
+}
+.deco{
+    font-size:x-small;
+    display: table-cell;
+    float: right;
+    width: 2000px;
+}
+.pal{
+    font-size: x-small;
+    display: table-cell;
+    float: right;
+    width: 2000px;
 }
