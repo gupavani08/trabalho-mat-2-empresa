@@ -8,7 +8,7 @@
 .texto {
 display: table-cell;
 float: right;
-width: 1400px;
+width: 1300px;
 
 }
 
@@ -36,10 +36,7 @@ text-align: center;
 }
 .exp{
     font-family: 'Times New Roman', Times, serif;
-    font-size: 40px;
-    font-size: 0.995rem;
-    font-weight: bold;
-    height: auto;
+    font-size: x-large;
 }
 .vel{
     width: 300px;
@@ -77,4 +74,12 @@ text-align: center;
     display: table-cell;
     float: right;
     width: 2000px;
+}
+.texto1{
+    display: table-cell;
+float: right;
+width: 1300px;
+}
+.fundo{
+    background-color: rgb(10, 252, 240);
 }
